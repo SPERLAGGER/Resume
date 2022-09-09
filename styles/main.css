@@ -17,7 +17,8 @@
   --secondaryTextColor: var(--secondaryTextColor-dark);
   --mainLinkColor: var(--mainLinkColor-dark);
   --mainBorderColor: var(--mainBorderColor-dark);
-  --mainBgColor: var(--mainBgColor-dark
+  --mainBgColor: var(--mainBgColor-dark);
+}
 
 * {
   font-family: "Readex Pro";
